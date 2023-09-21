@@ -13,6 +13,7 @@
 		5B0AE9422ABC5D2F00128893 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 5B0AE9412ABC5D2F00128893 /* Preview Assets.xcassets */; };
 		5B0AE9492ABC5DB800128893 /* SomeFirstFile.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5B0AE9482ABC5DB800128893 /* SomeFirstFile.swift */; };
 		5B0AE94D2ABC5E4B00128893 /* Second.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5B0AE94C2ABC5E4B00128893 /* Second.swift */; };
+		5B0AE94F2ABC5EA700128893 /* Third.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5B0AE94E2ABC5EA700128893 /* Third.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -23,6 +24,7 @@
 		5B0AE9412ABC5D2F00128893 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		5B0AE9482ABC5DB800128893 /* SomeFirstFile.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SomeFirstFile.swift; sourceTree = "<group>"; };
 		5B0AE94C2ABC5E4B00128893 /* Second.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Second.swift; sourceTree = "<group>"; };
+		5B0AE94E2ABC5EA700128893 /* Third.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Third.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -61,6 +63,7 @@
 				5B0AE93E2ABC5D2F00128893 /* Assets.xcassets */,
 				5B0AE9402ABC5D2F00128893 /* Preview Content */,
 				5B0AE94C2ABC5E4B00128893 /* Second.swift */,
+				5B0AE94E2ABC5EA700128893 /* Third.swift */,
 			);
 			path = ProjectGit;
 			sourceTree = "<group>";
@@ -143,6 +146,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				5B0AE94F2ABC5EA700128893 /* Third.swift in Sources */,
 				5B0AE93D2ABC5D2E00128893 /* ContentView.swift in Sources */,
 				5B0AE93B2ABC5D2E00128893 /* ProjectGitApp.swift in Sources */,
 				5B0AE9492ABC5DB800128893 /* SomeFirstFile.swift in Sources */,
